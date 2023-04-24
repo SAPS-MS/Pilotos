@@ -35,4 +35,4 @@ Abaixo, segue modelo do termo de compromisso, que é disponibilizado a todos os 
 
 <br>
 
-<iframe src="https://cgiap-saps.github.io/Pilotos/compromisso.pdf" width="890px" height="900px"></iframe>
+<iframe src="https://saps-ms.github.io/Pilotos/compromisso.pdf" width="890px" height="900px"></iframe>

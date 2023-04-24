@@ -32,7 +32,7 @@ last_modified_date: "28/02/2023"
     <br>
     <p>Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o     descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:</p>
     <br>      
-    <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/01.jpg">  
+    <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/01.jpg">  
   <br>
   <br>
 
@@ -87,7 +87,7 @@ last_modified_date: "28/02/2023"
   <br>
   <br>
 
-  <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/06.png">
+  <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/06.png">
 
   <br>
 	<br>
@@ -162,16 +162,16 @@ Exemplo de Formulário para <b>Teste Alfa:</b>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/02.PNG" alt="Primeiro Slide">      
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/02.PNG" alt="Primeiro Slide">      
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/03.PNG" alt="Segundo Slide">
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/03.PNG" alt="Segundo Slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/04.PNG" alt="Terceiro Slide">
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/04.PNG" alt="Terceiro Slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/05.PNG" alt="Quarto Slide">
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/05.PNG" alt="Quarto Slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -239,7 +239,7 @@ O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construç�
       <b>Modelo de Parecer Técnico:</b>
     <br>
     <br>
-      <iframe src="https://cgiap-saps.github.io/Pilotos/parecer.pdf" width="890px" height="900px"></iframe>
+      <iframe src="https://saps-ms.github.io/Pilotos/parecer.pdf" width="890px" height="900px"></iframe>
     <br>
     <br>
   </div>
