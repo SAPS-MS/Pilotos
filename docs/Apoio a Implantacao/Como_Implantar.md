@@ -89,8 +89,7 @@ last_modified_date: "01/03/2023"
   
   <h1>Prepação do Ambiente:</h1>
   <br>
-  <p>Esta etapa diz respeito ao provimento do aparato tecnológico que sustentará o ambiente que receberá o Prontuário Eletrônico do Cidadão (PEC). Tal ambiente poderá ser sob infraestrutura própria ou utilizando soluções de computação em nuvem. Definem-se informações relevantes, como: hardware, sistema operacional, banco de dados, parametrização da JVM, etc.</p>
-  <br>
+  <p>Esta etapa diz respeito ao provimento do aparato tecnológico que sustentará o ambiente que receberá o Prontuário Eletrônico do Cidadão (PEC). Tal ambiente poderá ser sob infraestrutura própria ou utilizando soluções de computação em nuvem. Definem-se informações relevantes, como: hardware, sistema operacional, banco de dados, parametrização da JVM, etc.</p>  
 
   <h4>Sistema Operacional:</h4>
   <br>
@@ -130,7 +129,7 @@ last_modified_date: "01/03/2023"
   <h4>Especificações de Banco de Dados:</h4>
 
   <br>
-    <p>PostgreSQL - a partir da versão 2.0, este banco vem configurado por padrão na instalação do sistema. Pode ser utilizado em UBS com servidor local ou para instalações centralizadas. É recomendado para qualquer tipo de instalação.
+    <p><b>PostgreSQL -</b> a partir da versão 2.0, este banco vem configurado por padrão na instalação do sistema. Pode ser utilizado em UBS com servidor local ou para instalações centralizadas. É recomendado para qualquer tipo de instalação.
     <br>
     <br>
     O banco de dados PostgreSQL é um software livre, portanto, sem custo de licença ou aquisição. Para mais informações acesse: http://www.postgresql.org/. É recomendado o uso da versão 9.6 ou superior.
