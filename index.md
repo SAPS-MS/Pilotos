@@ -5,7 +5,7 @@ nav_order: 1
 has_children: false
 description: "Manual e-SUS APS"
 permalink: /
-last_modified_date: "16/04/2023"
+last_modified_date: "25/04/2023"
 ---
 
 e-SUS Atenção Primária à Saúde (e-SUS APS)
