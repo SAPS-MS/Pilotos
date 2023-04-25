@@ -124,6 +124,9 @@ last_modified_date: "01/03/2023"
   <br>
   <p>A instalação na plataforma Microsoft Windows vem com pacote Java embutido, caso seja necessária uma instalação personalizada deve ser realizada a instalação do pacote Java 7. Para plataformas Linux recomenda-se seguir as instruções do arquivo “LEIA-ME” incluso no arquivo (compactado) de instalação.</p>
   <br>
+  <a href="https://www.oracle.com/java/technologies/downloads/#java8">Download do Java</a>
+  <br>
+  <br>
   <h4>Especificações de Banco de Dados:</h4>
 
   <br>
