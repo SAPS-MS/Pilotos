@@ -528,7 +528,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
 
   <div class="tab-pane fade" id="nav-chave" role="tabpanel" aria-labelledby="nav-chave-tab">
     
-  <h1>Novo fluxo para geração de contra-chave e-SUS APS:</h1>
+  <h2>Novo fluxo para geração de contra-chave e-SUS APS:</h2>
   <br>
   <br>
 
