@@ -530,8 +530,64 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
   
   <div class="tab-pane fade" id="nav-download" role="tabpanel" aria-labelledby="nav-download-tab">Realizar Download</div>
   <div class="tab-pane fade" id="nav-install" role="tabpanel" aria-labelledby="nav-install-tab">Instalar o PEC</div>
-  <div class="tab-pane fade" id="nav-chave" role="tabpanel" aria-labelledby="nav-chave-tab">Gerar Contra-Chave</div>
-  <div class="tab-pane fade" id="nav-xml" role="tabpanel" aria-labelledby="nav-xml-tab">Gerar XML</div>
+
+  <div class="tab-pane fade" id="nav-chave" role="tabpanel" aria-labelledby="nav-chave-tab">
+    
+  <h1>Novo fluxo para geração de contra-chave e-SUS APS:</h2>
+
+  <p>A partir do dia 11/05/2021 a geração de contra-chave para o sistema e-SUS APS, exigirá uma segunda etapa de validação! O técnico responsável pela instalação solicitará ao detentor do CNPJ do Fundo Municipal de Saúde (FMS) a geração de um token, o qual será gerado a partir 
+  da plataforma e-GESTOR, utilizando-se o CNPJ e a senha do FMS.</p>
+
+  1ª Etapa: 
+  <br>
+  <p>O detentor do CNPJ do Fundo Municipal de Saúde (FMS) deverá acessar a plataforma e-Gestor, 
+  a partir do endereço eletrônico https://egestorab.saude.gov.br/paginas/login.xhtml e se 
+  autenticar conforme tela abaixo: 
+  <br>
+  <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token.PNG">
+  
+  Na tela seguinte, clicar em “Instalação/Atualização PEC e-SUS APS”: 
+
+  <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token_2.PNG">
+  
+  O responsável deverá selecionar o campo “Gestor” e o “Motivo” à geração do token. Em 
+  seguida, clicar em “Gerar Código”: 
+  
+  <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token_3.PNG">
+
+  O sistema emitirá alerta de “Código de autenticação gerado com sucesso”: 
+
+  <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token_4.PNG">
+
+  Na guia “Códigos Gerados”, será possível visualizar o token que deverá ser repassado ao técnico 
+  responsável pela instalação e-SUS APS:
+
+  <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token_5.PNG">
+
+  <b>OBS.: O token gerado terá a validade de 24 horas. Após este prazo, será necessário novo 
+    código para geração da contra-chave. 
+  </b>
+  </p>
+  <br>
+  <p>
+  <b>2ª Etapa:</b>
+  De posse da chave gerada pelo responsável do FMS, o técnico da instalação acessará o “Gerador 
+  de contra-chave” a partir do seu perfil: 
+  <br>
+  <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/contra-chave-1.PNG">
+  <br>
+  Em seguida, deverá inserir o token gerado e clicar em “Liberar Acesso”: 
+  <br>
+  <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/contra-chave-2.PNG">
+  <br>
+  Na tela seguinte, informar a chave de instalação, para então conseguir gerar a contra-chave: 
+  <br>
+  <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/contra-chave-3.PNG">  
+
+  </p>
+  </div>
+  
+  <div class="tab-pane fade" id="nav-xml" role="tabpanel" aria-labelledby="nav-xml-tab">XML</div>
 
 </div>
 
