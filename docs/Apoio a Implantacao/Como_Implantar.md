@@ -542,44 +542,58 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
   <br>
   <b>1ª Etapa:</b>
   <br>
+  <br>
   <p>O detentor do CNPJ do Fundo Municipal de Saúde (FMS) deverá acessar a plataforma e-Gestor, a partir do endereço eletrônico https://egestorab.saude.gov.br/paginas/login.xhtml e se autenticar conforme tela abaixo: 
+    <br>
     <br>
     <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token.PNG">
     <br>
+    <br>
     Na tela seguinte, clicar em “Instalação/Atualização PEC e-SUS APS”: 
     <br>
+    <br>
     <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token_2.PNG">
+    <br>
     <br>
     O responsável deverá selecionar o campo “Gestor” e o “Motivo” à geração do token. Em 
     seguida, clicar em “Gerar Código”: 
     <br>
+    <br>
     <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token_3.PNG">
+    <br>
     <br>
     O sistema emitirá alerta de “Código de autenticação gerado com sucesso”: 
     <br>
+    <br>
     <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token_4.PNG">
+    <br>
     <br>
     Na guia “Códigos Gerados”, será possível visualizar o token que deverá ser repassado ao técnico 
     responsável pela instalação e-SUS APS:
     <br>
+    <br>
     <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token_5.PNG">
+    <br>
     <br>
     <b>OBS.: O token gerado terá a validade de 24 horas. Após este prazo, será necessário novo 
       código para geração da contra-chave.</b>
   </p>
   <br>
-  <p>
-  <b>2ª Etapa:</b>
-  De posse da chave gerada pelo responsável do FMS, o técnico da instalação acessará o “Gerador 
-  de contra-chave” a partir do seu perfil: 
+  <p><b>2ª Etapa:</b>
+  De posse da chave gerada pelo responsável do FMS, o técnico da instalação acessará o “Gerador de contra-chave” a partir do seu perfil: 
+  <br>
   <br>
   <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/contra-chave-1.PNG">
   <br>
+  <br>
   Em seguida, deverá inserir o token gerado e clicar em “Liberar Acesso”: 
+  <br>
   <br>
   <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/contra-chave-2.PNG">
   <br>
+  <br>
   Na tela seguinte, informar a chave de instalação, para então conseguir gerar a contra-chave: 
+  <br>
   <br>
   <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/contra-chave-3.PNG">  
 
