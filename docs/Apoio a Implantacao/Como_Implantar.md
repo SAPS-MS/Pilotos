@@ -520,12 +520,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
      
   </tbody>
 </table>  
-  
-  </div>
-
-
-
-
+</div>
 
   
   <div class="tab-pane fade" id="nav-download" role="tabpanel" aria-labelledby="nav-download-tab">Realizar Download</div>
@@ -537,7 +532,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
   <br>
   <br>
 
-  <p>A partir do dia 11/05/2021 a geração de contra-chave para o sistema e-SUS APS, exigirá uma segunda etapa de validação! O técnico responsável pela instalação solicitará ao detentor do CNPJ do Fundo Municipal de Saúde (FMS) a geração de um token, o qual será gerado a partir 
+  <p>A partir do dia <b>11/05/2021</b> a geração de contra-chave para o sistema e-SUS APS, exigirá uma segunda etapa de validação! O técnico responsável pela instalação solicitará ao detentor do <b>CNPJ do Fundo Municipal de Saúde (FMS)</b> a geração de um <b>token</b>, o qual será gerado a partir 
   da plataforma e-GESTOR, utilizando-se o CNPJ e a senha do FMS.</p>
   <br>
   <b>1ª Etapa:</b>
@@ -568,8 +563,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
     <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token_4.PNG">
     <br>
     <br>
-    Na guia “Códigos Gerados”, será possível visualizar o token que deverá ser repassado ao técnico 
-    responsável pela instalação e-SUS APS:
+    Na guia “Códigos Gerados”, será possível visualizar o token que deverá ser repassado ao técnico responsável pela instalação e-SUS APS:
     <br>
     <br>
     <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_token_5.PNG">
