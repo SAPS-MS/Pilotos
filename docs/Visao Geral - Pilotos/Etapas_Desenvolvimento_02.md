@@ -83,10 +83,12 @@ last_modified_date: "28/02/2023"
   <br>
   <br>
 
-  6- <b>Liberação no Portal da APS:</b> Recebido aval para liberação, a versão é disponibilizada no Sítio da APS, para que o e-SUS possa ser utilizado em escala nacional, conforme link: https://sisaps.saude.gov.br/esus/
+  6- <b>Liberação no Portal da APS:</b> Recebido aval para liberação, a versão é disponibilizada no Sítio da APS, para que o e-SUS possa ser utilizado em escala nacional: 
   <br>
   <br>
 
+  <b>Portal da APS:</b> https://sisaps.saude.gov.br/esus/
+  <br>
   <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/06.png">
 
   <br>
