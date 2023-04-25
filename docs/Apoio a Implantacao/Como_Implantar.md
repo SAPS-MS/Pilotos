@@ -99,7 +99,7 @@ last_modified_date: "01/03/2023"
   <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th style ="text-align:center;" scope="col" colspan="2">Sistemas Operacinais Compatíveis:</th>
+      <th style ="text-align:center;" scope="col" colspan="2">Sistemas Operacionais Compatíveis:</th>
       <br>            
     </tr>
   </thead>
@@ -124,7 +124,7 @@ last_modified_date: "01/03/2023"
   <br>
   <p>A instalação na plataforma Microsoft Windows vem com pacote Java embutido, caso seja necessária uma instalação personalizada deve ser realizada a instalação do pacote Java 7. Para plataformas Linux recomenda-se seguir as instruções do arquivo “LEIA-ME” incluso no arquivo (compactado) de instalação.</p>
   <br>
-  <a href="https://www.oracle.com/java/technologies/downloads/#java8">Download do Java</a>
+  <a href="https://www.oracle.com/java/technologies/downloads/#java8" target="_blank">Download do Java</a>
   <br>
   <br>
   <h4>Especificações de Banco de Dados:</h4>
@@ -137,10 +137,8 @@ last_modified_date: "01/03/2023"
     <br>
     <br>
     <b>Banco de Dados Oracle</b> - optando por este banco de dados, podem ser utilizadas as versões Oracle XE 11g, Oracle Standard Edition 11g ou Oracle Enterprise Edition 11g.
-    </p>
-  <br>
-  
-  <h5>Especificações técnicas de hardware, por acessos simultâneos:</h5>
+    </p>  
+  <h4>Especificações técnicas de hardware, por acessos simultâneos:</h4>
   <br>
   <b>Centralizadores Municipais:</b>
   <br>
