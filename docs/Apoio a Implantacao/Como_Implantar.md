@@ -533,7 +533,9 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
     <br>
     <br>
     Clicar na opção "Download" no canto superior direito e selecionar a versão desejada:
-    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/download.PNG">
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/download.png">
+    <br>
+    <br>
     </p>  
   </div>
 
