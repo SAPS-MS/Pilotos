@@ -523,13 +523,25 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
 </div>
 
   
-  <div class="tab-pane fade" id="nav-download" role="tabpanel" aria-labelledby="nav-download-tab">Realizar Download</div>
+  <div class="tab-pane fade" id="nav-download" role="tabpanel" aria-labelledby="nav-download-tab">  
+    <h2>Download do e-SUS PEC:</h2>
+    <br>
+    <p>O Prontuário Eletrônico do Cidadão (PEC), é multiplataforma e compatível com os sistemas operacionais: <b>Microsoft Windows e GNU/Linux</b>, arquitetura x64.
+    <br>
+    <br>
+    Para download da aplicação, basta acessar o seguinte endereço eletrônico: https://sisaps.saude.gov.br/esus/
+    <br>
+    <br>
+    Clicar na opção "Download" no canto superior direito e selecionar a versão desejada:
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/download.PNG">
+    </p>  
+  </div>
+
   <div class="tab-pane fade" id="nav-install" role="tabpanel" aria-labelledby="nav-install-tab">Instalar o PEC</div>
 
   <div class="tab-pane fade" id="nav-chave" role="tabpanel" aria-labelledby="nav-chave-tab">
     
-  <h2>Novo fluxo para geração de contra-chave e-SUS APS:</h2>
-  <br>
+  <h2>Novo fluxo para geração de contra-chave e-SUS APS:</h2>  
   <br>
 
   <p>A partir do dia <b>11/05/2021</b> a geração de contra-chave para o sistema e-SUS APS, exigirá uma segunda etapa de validação! O técnico responsável pela instalação solicitará ao detentor do <b>CNPJ do Fundo Municipal de Saúde (FMS)</b> a geração de um <b>token</b>, o qual será gerado a partir 
