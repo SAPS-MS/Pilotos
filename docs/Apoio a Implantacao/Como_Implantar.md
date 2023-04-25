@@ -37,14 +37,14 @@ last_modified_date: "01/03/2023"
 
 <div class="tab-content" id="nav-tabContent">
   <div class="tab-pane fade show active" id="nav-cenario" role="tabpanel" aria-labelledby="nav-cenario-tab">    
-
+  <br>
   <h4>Definição de Cenário:</h4><br>
-  <p>Antes de efetivamente se realizar a implantação do Prontuário Eletrônico do Cidadão (PEC) no ambiente de produção, deve-se preliminarmente, realizar o mapeamento do ambiente, identificar necessidades e de acordo com o cenário proposto, implementar ajustes técnicos de acordo com as especificidades de cada cenário. Abaixo, segue detalhamento técnico de dois tipos principais de arquiteturas: Centralizada e Descentralizada.</p>
+  <p>Antes de se efetivamente realizar a implantação do Prontuário Eletrônico do Cidadão (PEC) no ambiente de produção, deve-se preliminarmente, realizar o mapeamento do ambiente, identificar necessidades e de acordo com o cenário proposto, implementar ajustes técnicos de acordo com as especificidades de cada cenário. Abaixo, segue detalhamento técnico de dois tipos principais de arquiteturas: <b>Centralizada e Descentralizada.</b></p>
 
   <ul>    
       <li>Arquitetura Descentralizada:</li>
       <br>
-      <p>Nesta topologia, uma instalação do e-SUS APS é <b>interna e exclusiva</b> de um determinado estabelecimento de saúde (UBS). Isto significa, que temos um PEC instalado localmente neste ambiente e partir de uma rede compartilhada, é possível que computadores internos a esta rede, posssam acessar simultaneamente aquela instalação e usufruir dos recursos compartilhados daquela instalação. Abaixo, segue ilustração do cenário proposto:</p>
+      <p>Nesta topologia, uma instalação do e-SUS APS é <b>interna e exclusiva</b> de um determinado estabelecimento de saúde (UBS). Isto significa, que temos um PEC instalado localmente neste ambiente e a partir de uma rede compartilhada, é possível que computadores internos a esta rede posssam acessar simultaneamente aquela instalação e usufruir dos recursos compartilhados daquela instalação. Abaixo, segue ilustração do cenário proposto:</p>
       <br>
       <br>
 
@@ -61,7 +61,6 @@ last_modified_date: "01/03/2023"
         <img class="d-block w-100" src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/pec_descentralizado_02.PNG" alt="Segundo Slide">
       </div>    
   </div>
-
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="sr-only">Anterior</span>
@@ -69,15 +68,16 @@ last_modified_date: "01/03/2023"
     <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Próximo</span>
-    </a>
-    
+    </a>    
   </div>
+      <br>
       <li>Arquitetura Centralizada:</li>
       <br>
       <p>Ao contrário da topologia descentralizada, na arquitetura centralizada, uma instalação do e-SUS APS é <b>externa e compartilhada</b>, podendo vários estabelecimentos de saúde (UBSs), terem acesso simultâneo e em tempo real a aplicação, para o atendimento clínico do paciente; nesta modalidade, tem-se de forma evidente, acesso ao Prontuário Único do Cidadão, no nível municipal. Abaixo, segue ilustração do cenário proposto:</p>
       <br>
       <br>
       <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/pec_centralizado.PNG">
+      <br>
       <br>
       <h4>Considerações:</h4>
       <br>
@@ -93,11 +93,14 @@ last_modified_date: "01/03/2023"
   <br>
 
   <h4>Sistema Operacional:</h4>
-
+  <br>
+  <p>O desenvolvimento do e-SUS APS é multiplataforma, ou seja, é possível ser instalado em diferentes sistemas operacionais (SO), inclusive distribuições GNU/Linux, como o Ubuntu Linux (www.ubuntu.org), que é um software livre, portanto sem custos de licença ou aquisição.</p>
+  
   <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th style ="text-align:center;" scope="col" colspan="2">Sistemas Operacinais Compatíveis:</th>            
+      <th style ="text-align:center;" scope="col" colspan="2">Sistemas Operacinais Compatíveis:</th>
+      <br>            
     </tr>
   </thead>
 
@@ -105,30 +108,40 @@ last_modified_date: "01/03/2023"
     <tr>
       <td>Microsoft Windows</td>
       <td>
-          Windows 7<br>
-          Windows 8<br>
-          Windows 10<br>
-          Windows Server<br>
+          Windows 7, Windows 8, Windows 10, Windows Server<br>
 	    </td>      
     </tr>   
      <tr>      
       <td>GNU/LINUX</td>
       <td>
-          Debian<br>
-          Ubuntu<br>
-          Red Hat<br>
-          CentOS<br>
+          Debian, Ubuntu, Red Hat, CentOS<br>
 	    </td>      
     </tr>     
   </tbody>
 </table>
 
   <h4>Instalação do JAVA:</h4>
-
+  <br>
+  <p>A instalação na plataforma Microsoft Windows vem com pacote Java embutido, caso seja necessária uma instalação personalizada deve ser realizada a instalação do pacote Java 7. Para plataformas Linux recomenda-se seguir as instruções do arquivo “LEIA-ME” incluso no arquivo (compactado) de instalação.</p>
+  <br>
   <h4>Especificações de Banco de Dados:</h4>
-  
-  <h4>Especificações técnicas de hardware, por acessos simultâneos:</h4>
 
+  <br>
+    <p>PostgreSQL - a partir da versão 2.0, este banco vem configurado por padrão na instalação do sistema. Pode ser utilizado em UBS com servidor local ou para instalações centralizadas. É recomendado para qualquer tipo de instalação.
+    <br>
+    <br>
+    O banco de dados PostgreSQL é um software livre, portanto, sem custo de licença ou aquisição. Para mais informações acesse: http://www.postgresql.org/. É recomendado o uso da versão 9.6 ou superior.
+    <br>
+    <br>
+    <b>Banco de Dados Oracle</b> - optando por este banco de dados, podem ser utilizadas as versões Oracle XE 11g, Oracle Standard Edition 11g ou Oracle Enterprise Edition 11g.
+    </p>
+  <br>
+  
+  <h5>Especificações técnicas de hardware, por acessos simultâneos:</h5>
+  <br>
+  <b>Centralizadores Municipais:</b>
+  <br>
+  <br>
 <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
@@ -184,8 +197,10 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=500M"</td>
 
 </table>
 
-<br>
-<br>
+  <br>
+  <b>Centralizadores Estaduais:</b>
+  <br>
+  <br>
 
 <table class="table table-striped">
   <thead class="thead-dark">
@@ -237,8 +252,10 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
   </tbody>
 </table>
 
-<br>
-<br>
+  <br>
+  <b>Para 40 usuários simultâneos:</b>
+  <br>
+  <br>
 
 <table class="table table-striped">
   <thead class="thead-dark">
@@ -283,8 +300,10 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
   </tbody>
 </table>
 
-<br>
-<br>
+  <br>
+  <b>Para 100 usuários simultâneos:</b>
+  <br>
+  <br>
 
 <table class="table table-striped">
   <thead class="thead-dark">
@@ -333,9 +352,10 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
   </tbody>
 </table>
 
-<br>
-<br>
-
+  <br>
+  <b>Para 1000 usuários simultâneos:</b>
+  <br>
+  <br>
 
 <table class="table table-striped">
   <thead class="thead-dark">
@@ -388,8 +408,10 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
   </tbody>
 </table>
 
-<br>
-<br>
+  <br>
+  <b>Para 2500 usuários simultâneos:</b>
+  <br>
+  <br>
 
 <table class="table table-striped">
   <thead class="thead-dark">
@@ -443,8 +465,10 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
   </tbody>
 </table>
 
-<br>
-<br>
+  <br>
+  <b>Para 4000 usuários simultâneos:</b>
+  <br>
+  <br>
 
 <table class="table table-striped">
   <thead class="thead-dark">
@@ -495,46 +519,9 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
     </tr>    
      
   </tbody>
-</table>
-  
-  
-  
-  
+</table>  
   
   </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
