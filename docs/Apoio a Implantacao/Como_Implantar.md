@@ -606,7 +606,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
     Endereço padrão da instalação do e-SUS PEC: https://localhost:8080/esus
     <br>
     <br>
-    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/configuracao_eSUS.PNG">
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/nome_instalacao.gif">
     </p>
   </div>
 
