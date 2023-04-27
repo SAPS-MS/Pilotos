@@ -545,6 +545,12 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
     <h1>Instalação do PEC:</h1>
     <br>
     <br>
+    A instalação do PEC, seguirá conforme descrição dos passos abaixo:
+    <br>
+    <br>
+    <h3>Verificando a versão do JAVA:</h3>
+    <br>
+    <br>
     <p>Após o download do instalador do e-SUS APS PEC em sua versão mais atual, o profissional deve validar se o servidor possui o Java 8 instalado. A verificação quanto a instalação e versão do java pode ser confirmada no prompt de comando no Windows, com o comando java -version. Caso não esteja instalado, o Java 8 de 64 bits pode ser obtido através do seguinte link: Java SE Runtime Environment 8 Downloads.
     <br>
     <br>
