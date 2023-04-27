@@ -600,7 +600,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
     <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/instalacao_concluida.PNG">
     <br>
     <br>
-    Aguarde o serviço da apliação e banco de dados assumirem o status de "Em execução" e digite o endereço padrão da instalação para as configurações iniciais:
+    Aguarde o serviço da apliação e banco de dados assumirem o status de "Em execução" e digite o endereço padrão da instalação, à definição das configurações iniciais:
     <br>
     <br>
     Endereço padrão da instalação do e-SUS PEC: https://localhost:8080/esus
