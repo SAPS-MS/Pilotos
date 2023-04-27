@@ -545,7 +545,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
     <h1>Instalação do PEC:</h1>
     <br>
     <br>
-    A instalação do PEC, seguirá conforme descrição dos passos abaixo:    
+    A instalação do e-SUS PEC seguirá conforme descrição dos passos abaixo:    
     <br>
     <h3>Verificando a versão do JAVA:</h3>
     <br>
