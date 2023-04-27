@@ -562,45 +562,46 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
     Após duplo clique na aplicação, aparecerá a tela abaixo: 
     <br>
     <br>
-    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/instalacao_esus.png">
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/instalacao_esus.PNG">
     <br>
     <br>
-    Selecione o tipo de instalação: Prontuário ou Treinamento.
+    Selecione o tipo de instalação: Produção ou Treinamento.
     <br>
     <br>
-    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/tipo_instalacao.png">
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/tipo_instalacao.PNG">
     <br>
     <br>
     Informe se possui um banco de dados instalado e caso positivo, informe a "URL da instalação", "usuário" e "senha"; caso não possua, assinale "não" e marque a opção de restauração do banco de dados, caso exista um  backup existente:
     <br>
     <br>
-    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/possui_db.png">
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/possui_db.PNG">
     <br>
     <br>
     Verifique o resumo da instalação e clique em "instalar":
     <br>
     <br>
-    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/resumo_instalacao.png">
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/resumo_instalacao.PNG">
     <br>
     <br>
     Aguarde a instalação do PEC:
     <br>
     <br>
-    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/instalacao.png">
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/instalacao.PNG">
     <br>
     <br>
     E conclua a instalação clicando em "Finalizar":
     <br>
     <br>
-    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/instalacao_concluida.png">
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/instalacao_concluida.PNG">
     <br>
     <br>
     Aguarde o serviço da apliação e banco de dados assumirem o status de "Em execução" e digite o endereço padrão da instalação para as configurações iniciais:
     <br>
+    <br>
     Endereço padrão da instalação do e-SUS PEC: https://localhost:8080/esus
     <br>
     <br>
-    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/configuracao_eSUS.png">
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/configuracao_eSUS.PNG">
     </p>
   </div>
 
