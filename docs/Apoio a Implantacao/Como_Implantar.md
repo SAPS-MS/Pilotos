@@ -610,7 +610,38 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
   </p>
   </div>
   
-  <div class="tab-pane fade" id="nav-xml" role="tabpanel" aria-labelledby="nav-xml-tab">XML</div>
+  <div class="tab-pane fade" id="nav-xml" role="tabpanel" aria-labelledby="nav-xml-tab">
+    <h1>Gerar XML - e-GESTOR AB:</h1>
+    <br>
+    <p>Desde a versão 5.0 do Prontuário Eletrônico do Cidadão (PEC), a geração do XML para importação no PEC, não é mais feita via <b>Portal CNES</b>, devendo ser feita exclusivamente via e-GESTOR AB, utilizando o perfil de Gestor Municipal de Saúde, conforme seguem as etapas abaixo: </p>    
+    <br>
+    <b>1º Etapa:</b>
+    <br>
+    <br>
+    <p>Acessar o e-GESTOR AB no seguinte endereço eletrônico: https://acesso-egestoraps.saude.gov.br/login. O Gestor Municipal deverá se autenticar utilizando suas credenciais GOV.BR, para acesso ao serviço:
+    <br>
+    <br>
+    <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/egestor_ab.PNG">
+    <br>
+    <br>
+    <b>2º Etapa:</b>
+    <br>
+    <br>
+    No painel "Gestor Municipal", o responsável deverá clicar em "XML-ESUS-APS" e em seguida, escolher um dos dois tipos de XML disponíveis: <b>XML v.2.1 e XML v.3.0.</b> A versão 3.0 é compatível apenas com versões iguais ou superiores ao PEC 5.0.
+    <br>
+    <br>
+    <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/egestor_ab_1.PNG">
+    <br>
+    <br>
+    <b>3º Etapa:</b>
+    <br>
+    <br>
+    Na animação abaixo, é possível visualizar a geração do XML para PEC:
+    <br>
+    <br>
+    <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/gerar_xml.gif">
+    </p>
+  </div>
 
 </div>
 
