@@ -541,7 +541,68 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
     </p>  
   </div>
 
-  <div class="tab-pane fade" id="nav-install" role="tabpanel" aria-labelledby="nav-install-tab">Instalar o PEC</div>
+  <div class="tab-pane fade" id="nav-install" role="tabpanel" aria-labelledby="nav-install-tab">
+    <h1>Instalação do PEC:</h1>
+    <br>
+    <br>
+    <p>Após o download do instalador do e-SUS APS PEC em sua versão mais atual, o profissional deve validar se o servidor possui o Java 8 instalado. A verificação quanto a instalação e versão do java pode ser confirmada no prompt de comando no Windows, com o comando java -version. Caso não esteja instalado, o Java 8 de 64 bits pode ser obtido através do seguinte link: Java SE Runtime Environment 8 Downloads.
+    <br>
+    <br>
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/java_version.gif">
+    <br>
+    <br>
+    Para a nova versão do e-SUS APS, os passos para a instalação são semelhantes em ambos sistemas operacionais (Windows e Linux). Antes de iniciar a instalação é necessário validar se o usuário logado no computador possui privilégios de administrador.
+    Para a execução do arquivo de extensão .jar, basta que o profissional dê um duplo clique no arquivo. Caso a execução do arquivo não ocorra com o duplo clique, a execução deverá ser realizada via linha de comando, executado em modo de interface gráfica. Abaixo são apresentadas as etapas de instalação conforme o tipo de execução do arquivo realizada.
+    <br>
+    <br>
+    <b>Instalação do sistema através do duplo clique no arquivo instalador</b>
+     Após o duplo clique no arquivo instalador, a interface gráfica (modal/wizard) será aberta com as 6 etapas da instalação, conforme as imagens e descrições apresentadas a seguir.
+    <br>
+    <br>
+    Após duplo clique na aplicação, aparecerá a tela abaixo: 
+    <br>
+    <br>
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/instalacao_esus.png">
+    <br>
+    <br>
+    Selecione o tipo de instalação: Prontuário ou Treinamento.
+    <br>
+    <br>
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/tipo_instalacao.png">
+    <br>
+    <br>
+    Informe se possui um banco de dados instalado e caso positivo, informe a "URL da instalação", "usuário" e "senha"; caso não possua, assinale "não" e marque a opção de restauração do banco de dados, caso exista um  backup existente:
+    <br>
+    <br>
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/possui_db.png">
+    <br>
+    <br>
+    Verifique o resumo da instalação e clique em "instalar":
+    <br>
+    <br>
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/resumo_instalacao.png">
+    <br>
+    <br>
+    Aguarde a instalação do PEC:
+    <br>
+    <br>
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/instalacao.png">
+    <br>
+    <br>
+    E conclua a instalação clicando em "Finalizar":
+    <br>
+    <br>
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/instalacao_concluida.png">
+    <br>
+    <br>
+    Aguarde o serviço da apliação e banco de dados assumirem o status de "Em execução" e digite o endereço padrão da instalação para as configurações iniciais:
+    <br>
+    Endereço padrão da instalação do e-SUS PEC: https://localhost:8080/esus
+    <br>
+    <br>
+    <img src ="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/configuracao_eSUS.png">
+    </p>
+  </div>
 
   <div class="tab-pane fade" id="nav-chave" role="tabpanel" aria-labelledby="nav-chave-tab">
     
@@ -627,7 +688,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
     <b>2º Etapa:</b>
     <br>
     <br>
-    No painel "Gestor Municipal", o responsável deverá clicar em "XML-ESUS-APS" e em seguida, escolher um dos dois tipos de XML disponíveis: <b>XML v.2.1 e XML v.3.0.</b> A versão 3.0 é compatível apenas com versões iguais ou superiores ao PEC 5.0.
+    No painel "Gestor Municipal", o responsável deverá clicar em "XML-ESUS-APS" e em seguida, escolher um dos dois tipos de XML disponíveis: <b>XML v.2.1 e XML v.3.0.</b> A versão 3.0 é compatível apenas com versões iguais ou superiores ao PEC 5.0:
     <br>
     <br>
     <img src="https://raw.githubusercontent.com/SAPS-MS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/egestor_ab_1.PNG">
