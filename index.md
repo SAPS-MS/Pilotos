@@ -24,7 +24,7 @@ PRONTUÁRIO ELETRÔNICO DO CIDADÃO (PEC)
 {: .text-center }
 <br>
 <br>
-(versão 5.0)
+(versão 5.1)
 {: .fs-6 }
 {: .text-center }
 <br>
