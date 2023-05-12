@@ -14,13 +14,13 @@ last_modified_date: "11/04/2023"
 
 <b>Novidades:</b>
 
-Facilidades no agendamento de consultas de pré-natal:
-
+- Facilidades no agendamento de consultas de pré-natal
 - Gestão da garantia do acesso
 - Prescrição digital
 - Teleinterconsulta
 - RNDS - Envio de atendimentos individuais
-- Facilidades no agendamento de consultas de pré-natal
+
+<b>Facilidades no agendamento de consultas de pré-natal</b>
 
 <p>Com a nova funcionalidade de agendamentos, durante um atendimento de pré-natal, será possível realizar o <b>agendamento da próxima consulta para acompanhamento de pré-natal e a consulta odontológica de pré-natal.</b> O PEC irá <b>sugerir a data e lotação de profissional</b>, sendo que a pessoa responsável pelo atendimento tem liberdade para alterar essas informações conforme disponibilidade das partes envolvidas.</p>
 
@@ -37,7 +37,7 @@ Facilidades no agendamento de consultas de pré-natal:
 
 ![](./media/012.png)
 
-<b>Gestão da garantia do acesso.</b>
+<b>Gestão da garantia do acesso:</b>
 <br>
 <br>
 Nesta nova atualização, o PEC passa a contar com o novo módulo de gestão da garantia do acesso, o objetivo do módulo é permitir que os profissionais possam criar uma lista para gerir a demanda reprimida dos estabelecimentos de saúde. Através do módulo poderão ser visualizados os contatos e demandas dos cidadãos que buscaram atendimento e não conseguiram acesso ao serviço e direcioná-los para um possível agendamento futuro.
@@ -47,7 +47,7 @@ Nesta nova atualização, o PEC passa a contar com o novo módulo de gestão da 
 
 <br>
 
-<b>Prescrição Digital</b>
+<b>Prescrição Digital:</b>
 
 <br>
 - Ao encaminhar a prescrição de medicamentos para o cidadão, será possível optar por realizar a impressão ou gerar uma prescrição digital através da opção “Prescrição digital”, caso a instalação esteja habilitada para gerar prescrições digitais. O documento da prescrição digital será gerado no formato PDF e enviado ao cidadão, que poderá utilizá-lo para retirar medicamentos. Na farmácia, será possível registar que os medicamentos da prescrição foram fornecidos.
@@ -67,7 +67,7 @@ Nesta nova atualização, o PEC passa a contar com o novo módulo de gestão da 
 
 ![](./media/015.gif)
 
-<b>Teleinterconsulta</b>
+<b>Teleinterconsulta:</b>
 <br>
 <p>A partir desta atualização, é possível realizar teleinterconsultas diretamente no PEC através do novo módulo Videochamadas. Assim, essa modalidade de consulta entre dois profissionais pode agora ser feita através de um canal oficial de comunicação.</p>
 <br>
@@ -91,7 +91,6 @@ Nesta nova atualização, o PEC passa a contar com o novo módulo de gestão da 
 
 <b>RNDS - Envio de atendimentos individuais</b>
 <br>
-<br>****
 
 - Agora, para as instalações com a RNDS configurada, os registros dos Atendimentos Individuais serão enviados à Rede Nacional de Dados em Saúde (RNDS) ao finalizar o respectivo atendimento.
 
