@@ -15,11 +15,6 @@ last_modified_date: "25/04/2023"
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 *Elaboração, distribuição e informações*<br>
 
 **MINISTÉRIO DA SAÚDE**<br>
