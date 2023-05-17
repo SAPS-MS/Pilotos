@@ -48,7 +48,7 @@ last_modified_date: "27/02/2023"
                         <li>Pelotas - RS	</li>
                         <li>Teresina - PI	</li>
                         <li>Vila Velha - ES	</li>
-                        <li>Espírito Santos - ES	</li>
+                        <li>Espírito Santo - ES	</li>
                         <li>Mato Grosso - MT	</li>                  
                       </ul>
                     </td>           
