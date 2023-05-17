@@ -8,30 +8,7 @@ permalink: /
 last_modified_date: "25/04/2023"
 ---
 
-e-SUS Atenção Primária à Saúde (e-SUS APS)
-
-e-SUS Atenção Primária à Saúde (e-SUS APS)
-{: .fs-10 }
-{: .fw-700 }
-{: .text-center }
-<br>
-<br>
-PRONTUÁRIO ELETRÔNICO DO CIDADÃO (PEC)
-{: .fs-8 }
-{: .text-center }
-<b>MUNICÍPIOS PILOTOS</b>
-{: .fs-8 }
-{: .text-center }
-<br>
-<br>
-(versão 5.1)
-{: .fs-6 }
-{: .text-center }
-<br>
-<br>
-<br>
-<br>
-<br>
+<img src="./index.png">
 <br>
 <br>
 <br>
