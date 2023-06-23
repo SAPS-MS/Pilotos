@@ -40,6 +40,8 @@ last_modified_date: "27/02/2023"
                           <li>Londrina - PR	</li>
                           <li>Manaus - AM</li>
                           <li>Medina - MG	</li>   
+                          <li>Assis - SP	</li>
+                          <li>Mucajaí - RR	</li>
                       </ul>                 
                     </td>
                     <td>
@@ -47,9 +49,11 @@ last_modified_date: "27/02/2023"
                         <li>Otacílio Costa - SC</li>
                         <li>Pelotas - RS	</li>
                         <li>Teresina - PI	</li>
-                        <li>Vila Velha - ES	</li>
-                        <li>Espírito Santo - ES	</li>
-                        <li>Mato Grosso - MT	</li>                  
+                        <li>Vila Velha - ES	</li>                       
+                        <li>Biguaçú - SC	</li> 
+                        <li>Recife - PE	</li> 
+                        <li><mark>Mato Grosso - MT </mark></li>
+                        <li><mark>Espírito Santo - ES </mark></li>
                       </ul>
                     </td>           
                   </tr>

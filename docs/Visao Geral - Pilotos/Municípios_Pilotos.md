@@ -137,17 +137,53 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
             contato@email.com.br<br>            
       </td>    
       <td><a href="#">Assinatura do Município</a></td>             
+    </tr>          
+    <tr>      
+      <td>Assis - SP</td>
+      <td>Marcio Alexandre Camargo</td>
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>           
+      </td> 
+      <td><a href="#">Assinatura do Município</a></td>      
+    </tr>     
+    <tr>      
+      <td>Biguaçú - SC</td>
+      <td>Maycon da Silva</td>
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>           
+      </td>
+      <td><a href="#">Assinatura do Município</a></td>       
+    </tr>     
+    <tr>      
+      <td>Mucajaí - RR</td>
+      <td>Márcio Henrique Souza</td>
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>           
+      </td>     
+      <td><a href="#">Assinatura do Município</a></td>  
+    </tr>     
+    <tr>      
+      <td>Recife - PE</td>
+      <td>Gustavo Sérgio Magalhães</td>
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>           
+      </td>   
+      <td><a href="#">Assinatura do Município</a></td>    
     </tr>
-     <tr>      
-      <td>Espírito Santos - ES</td>
+    <tr>      
+      <td><mark>Espírito Santos - ES</mark></td>
       <td>Átilas Lamberti</td> 
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>       
+      </td>             
     </tr>
     <tr>      
-      <td>Mato Grosso - MT</td>
+      <td><mark>Mato Grosso - MT</mark></td>
       <td>Cristhiane Duarte</td>
       <td>
             contato@email.com.br<br>
