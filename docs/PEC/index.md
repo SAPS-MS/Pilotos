@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Prontuário Eletrônico do Cidadão v5.0
+title: Prontuário Eletrônico do Cidadão v5.2
 nav_order: 3
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /Últimas releases
+permalink: /PEC
 last_modified_date: "24/10/2023"
 ---
 

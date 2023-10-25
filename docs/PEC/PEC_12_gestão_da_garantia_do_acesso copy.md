@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gestão de garantia de acesso
-parent: Prontuário Eletrônico do Cidadão v5.0
+parent: Prontuário Eletrônico do Cidadão v5.2
 nav_order: 14
 has_children: false
 has_toc: true
