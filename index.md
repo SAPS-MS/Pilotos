@@ -39,7 +39,7 @@ Igor de Carvalho Gomes
 Igor de Carvalho Gomes, Willian Soares Lima, Elaine Almeida.
 
 **Elaboração de texto**<br>
-Rodrigo André Cuevas Gaete, Igor de Carvalho Gomes, Willian Soares Lima, Elaine Almeida, Janaína Nogueira Guimarães.
+Rodrigo André Cuevas Gaete, Igor de Carvalho Gomes, Willian Soares Lima, Elaine Almeida, Janaína Nogueira Guimarães, Vania Priamo.
 
 **Projeto Gráfico**<br>
 Alexandre Soares de Brito e Diogo Ferreira Gonçalves
